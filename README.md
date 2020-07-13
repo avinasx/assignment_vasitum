@@ -1,5 +1,5 @@
 # assignment_vasitum
-Contains two task:
+Contains two tasks:
 
 ## 1. An Integer Service
 
